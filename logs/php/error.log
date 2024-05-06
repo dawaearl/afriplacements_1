@@ -1,0 +1,536 @@
+[12-Feb-2024 08:59:35 UTC] PHP Warning:  Undefined array key "url" in C:\Users\earl1\Local Sites\afriplacement\app\public\wp-content\plugins\elementor\includes\template-library\classes\class-import-images.php on line 199
+[12-Feb-2024 09:45:10 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\earl1\Local Sites\afriplacement\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[12-Feb-2024 13:13:10 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\earl1\Local Sites\afriplacement\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[12-Feb-2024 13:33:49 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\earl1\Local Sites\afriplacement\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[12-Feb-2024 14:00:48 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\earl1\Local Sites\afriplacement\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[18-Feb-2024 12:27:34 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\earl1\Local Sites\afriplacement\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[18-Feb-2024 15:12:31 UTC] PHP Warning:  Attempt to read property "name" on bool in C:\Users\earl1\Local Sites\afriplacement\app\public\wp-admin\nav-menus.php on line 1215
+[18-Feb-2024 15:24:37 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\earl1\Local Sites\afriplacement\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[18-Feb-2024 16:01:07 UTC] PHP Warning:  Attempt to read property "name" on bool in C:\Users\earl1\Local Sites\afriplacement\app\public\wp-admin\nav-menus.php on line 1215
+[19-Feb-2024 13:09:52 UTC] Sync process for Gutenberg Blocks has started.
+[19-Feb-2024 13:09:52 UTC] CATEGORY: Storing in option ast-block-templates-categories
+[19-Feb-2024 13:09:52 UTC] BLOCK: Requests count 8
+[19-Feb-2024 13:09:52 UTC] BLOCK: Importing request 1 ..
+[19-Feb-2024 13:09:52 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=1&wireframe=yes
+[19-Feb-2024 13:09:52 UTC] BLOCK: Storing in option ast-block-templates-blocks-1
+[19-Feb-2024 13:09:53 UTC] BLOCK: Completed request 1
+[19-Feb-2024 13:09:53 UTC] BLOCK: Importing request 2 ..
+[19-Feb-2024 13:09:53 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=2&wireframe=yes
+[19-Feb-2024 13:09:53 UTC] BLOCK: Storing in option ast-block-templates-blocks-2
+[19-Feb-2024 13:09:55 UTC] BLOCK: Completed request 2
+[19-Feb-2024 13:09:55 UTC] BLOCK: Importing request 3 ..
+[19-Feb-2024 13:09:55 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=3&wireframe=yes
+[19-Feb-2024 13:09:55 UTC] BLOCK: Storing in option ast-block-templates-blocks-3
+[19-Feb-2024 13:09:57 UTC] BLOCK: Completed request 3
+[19-Feb-2024 13:09:57 UTC] BLOCK: Importing request 4 ..
+[19-Feb-2024 13:09:57 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=4&wireframe=yes
+[19-Feb-2024 13:09:57 UTC] BLOCK: Storing in option ast-block-templates-blocks-4
+[19-Feb-2024 13:09:57 UTC] BLOCK: Completed request 4
+[19-Feb-2024 13:09:57 UTC] BLOCK: Importing request 5 ..
+[19-Feb-2024 13:09:57 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=5&wireframe=yes
+[19-Feb-2024 13:09:57 UTC] BLOCK: Storing in option ast-block-templates-blocks-5
+[19-Feb-2024 13:09:58 UTC] BLOCK: Completed request 5
+[19-Feb-2024 13:09:58 UTC] BLOCK: Importing request 6 ..
+[19-Feb-2024 13:09:58 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=6&wireframe=yes
+[19-Feb-2024 13:09:58 UTC] BLOCK: Storing in option ast-block-templates-blocks-6
+[19-Feb-2024 13:09:58 UTC] BLOCK: Completed request 6
+[19-Feb-2024 13:09:58 UTC] BLOCK: Importing request 7 ..
+[19-Feb-2024 13:09:58 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=7&wireframe=yes
+[19-Feb-2024 13:09:59 UTC] BLOCK: Storing in option ast-block-templates-blocks-7
+[19-Feb-2024 13:10:02 UTC] BLOCK: Completed request 7
+[19-Feb-2024 13:10:02 UTC] BLOCK: Importing request 8 ..
+[19-Feb-2024 13:10:02 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=8&wireframe=yes
+[19-Feb-2024 13:10:02 UTC] BLOCK: Storing in option ast-block-templates-blocks-8
+[19-Feb-2024 13:10:02 UTC] BLOCK: Completed request 8
+[19-Feb-2024 13:10:02 UTC] SITE: Getting Total Sites
+[19-Feb-2024 13:10:02 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/get-total-pages/?page_builder=gutenberg&per_page=30
+[19-Feb-2024 13:10:02 UTC] SITE: Request count 9
+[19-Feb-2024 13:10:02 UTC] SITE: Importing request 1 ..
+[19-Feb-2024 13:10:02 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=1&page-builder=gutenberg
+[19-Feb-2024 13:10:03 UTC] SITE: Storing in option ast-block-templates-sites-1
+[19-Feb-2024 13:10:03 UTC] SITE: Completed request 1
+[19-Feb-2024 13:10:03 UTC] SITE: Importing request 2 ..
+[19-Feb-2024 13:10:03 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=2&page-builder=gutenberg
+[19-Feb-2024 13:10:03 UTC] SITE: Storing in option ast-block-templates-sites-2
+[19-Feb-2024 13:10:03 UTC] SITE: Completed request 2
+[19-Feb-2024 13:10:03 UTC] SITE: Importing request 3 ..
+[19-Feb-2024 13:10:03 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=3&page-builder=gutenberg
+[19-Feb-2024 13:10:03 UTC] SITE: Storing in option ast-block-templates-sites-3
+[19-Feb-2024 13:10:03 UTC] SITE: Completed request 3
+[19-Feb-2024 13:10:03 UTC] SITE: Importing request 4 ..
+[19-Feb-2024 13:10:03 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=4&page-builder=gutenberg
+[19-Feb-2024 13:10:03 UTC] SITE: Storing in option ast-block-templates-sites-4
+[19-Feb-2024 13:10:03 UTC] SITE: Completed request 4
+[19-Feb-2024 13:10:03 UTC] SITE: Importing request 5 ..
+[19-Feb-2024 13:10:03 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=5&page-builder=gutenberg
+[19-Feb-2024 13:10:03 UTC] SITE: Storing in option ast-block-templates-sites-5
+[19-Feb-2024 13:10:03 UTC] SITE: Completed request 5
+[19-Feb-2024 13:10:03 UTC] SITE: Importing request 6 ..
+[19-Feb-2024 13:10:03 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=6&page-builder=gutenberg
+[19-Feb-2024 13:10:04 UTC] SITE: Storing in option ast-block-templates-sites-6
+[19-Feb-2024 13:10:04 UTC] SITE: Completed request 6
+[19-Feb-2024 13:10:04 UTC] SITE: Importing request 7 ..
+[19-Feb-2024 13:10:04 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=7&page-builder=gutenberg
+[19-Feb-2024 13:10:04 UTC] SITE: Storing in option ast-block-templates-sites-7
+[19-Feb-2024 13:10:04 UTC] SITE: Completed request 7
+[19-Feb-2024 13:10:04 UTC] SITE: Importing request 8 ..
+[19-Feb-2024 13:10:04 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=8&page-builder=gutenberg
+[19-Feb-2024 13:10:04 UTC] SITE: Storing in option ast-block-templates-sites-8
+[19-Feb-2024 13:10:04 UTC] SITE: Completed request 8
+[19-Feb-2024 13:10:04 UTC] SITE: Importing request 9 ..
+[19-Feb-2024 13:10:04 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=9&page-builder=gutenberg
+[19-Feb-2024 13:10:04 UTC] SITE: Storing in option ast-block-templates-sites-9
+[19-Feb-2024 13:10:04 UTC] SITE: Completed request 9
+[19-Feb-2024 13:10:04 UTC] Sync process for Gutenberg Blocks is done.
+[19-Feb-2024 13:10:04 UTC] BLOCK: Getting Server Custimizer CSS
+[19-Feb-2024 13:10:04 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/get-customizer-css
+[19-Feb-2024 13:26:42 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[19-Feb-2024 14:00:58 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: Activation Request Failed!: Invalid activation
+[19-Feb-2024 14:01:02 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: Activation Request Failed!: Invalid activation
+[19-Feb-2024 14:01:08 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: Activation Request Failed!: Invalid activation
+[19-Feb-2024 14:01:12 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: Activation Request Failed!: Invalid activation
+[19-Feb-2024 14:01:16 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: Activation Request Failed!: Invalid activation
+[19-Feb-2024 14:12:16 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: Activation Request Failed!: Invalid activation
+[19-Feb-2024 14:12:20 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: Activation Request Failed!: Invalid activation
+[19-Feb-2024 14:12:25 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: Activation Request Failed!: Invalid activation
+[19-Feb-2024 14:12:30 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: Activation Request Failed!: Invalid activation
+[19-Feb-2024 14:12:35 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: Activation Request Failed!: Invalid activation
+[19-Feb-2024 14:12:44 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: Activation Request Failed!: Invalid activation
+[19-Feb-2024 14:22:50 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: Activation Request Failed!: Invalid activation
+[19-Feb-2024 14:22:56 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Stats\Classes\Optimization_Stats::get_image_stats_chunk(): There is no entity with id '18'
+[19-Feb-2024 14:22:57 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: Activation Request Failed!: Invalid activation
+[19-Feb-2024 14:23:07 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: Activation Request Failed!: Invalid activation
+[19-Feb-2024 14:23:10 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: Activation Request Failed!: Invalid activation
+[19-Feb-2024 14:23:25 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Stats\Classes\Optimization_Stats::get_image_stats_chunk(): There is no entity with id '34'
+[19-Feb-2024 14:23:26 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: Activation Request Failed!: Invalid activation
+[19-Feb-2024 14:23:30 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: Activation Request Failed!: Invalid activation
+[19-Feb-2024 14:23:35 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: Activation Request Failed!: Invalid activation
+[19-Feb-2024 14:23:40 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: Activation Request Failed!: Invalid activation
+[19-Feb-2024 14:23:45 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Stats\Classes\Optimization_Stats::get_image_stats_chunk(): Post '30' is not an image
+[19-Feb-2024 14:23:45 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: Activation Request Failed!: Invalid activation
+[19-Feb-2024 14:23:51 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: Activation Request Failed!: Invalid activation
+[19-Feb-2024 14:23:55 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Stats\Classes\Optimization_Stats::get_image_stats_chunk(): There is no entity with id '24'
+[19-Feb-2024 14:23:56 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: Activation Request Failed!: Invalid activation
+[19-Feb-2024 14:24:05 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: Activation Request Failed!: Invalid activation
+[19-Feb-2024 14:24:15 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Stats\Classes\Optimization_Stats::get_image_stats_chunk(): There is no entity with id '23'
+[19-Feb-2024 14:24:16 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: Activation Request Failed!: Invalid activation
+[19-Feb-2024 14:24:25 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: Activation Request Failed!: Invalid activation
+[19-Feb-2024 14:24:30 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: Activation Request Failed!: Invalid activation
+[19-Feb-2024 14:24:36 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: Activation Request Failed!: Invalid activation
+[19-Feb-2024 14:24:40 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: Activation Request Failed!: Invalid activation
+[19-Feb-2024 14:24:45 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: Activation Request Failed!: Invalid activation
+[19-Feb-2024 14:24:50 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: Activation Request Failed!: Invalid activation
+[19-Feb-2024 14:24:55 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: Activation Request Failed!: Invalid activation
+[19-Feb-2024 14:25:00 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: Activation Request Failed!: Invalid activation
+[19-Feb-2024 14:25:05 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: Activation Request Failed!: Invalid activation
+[19-Feb-2024 14:25:10 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: Activation Request Failed!: Invalid activation
+[19-Feb-2024 14:25:16 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: Activation Request Failed!: Invalid activation
+[19-Feb-2024 14:25:21 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: Activation Request Failed!: Invalid activation
+[19-Feb-2024 14:25:25 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: Activation Request Failed!: Invalid activation
+[19-Feb-2024 14:25:30 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: Activation Request Failed!: Invalid activation
+[19-Feb-2024 14:25:35 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: Activation Request Failed!: Invalid activation
+[19-Feb-2024 14:25:40 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: Activation Request Failed!: Invalid activation
+[19-Feb-2024 14:25:46 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: Activation Request Failed!: Invalid activation
+[19-Feb-2024 14:25:50 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: Activation Request Failed!: Invalid activation
+[19-Feb-2024 14:25:55 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: Activation Request Failed!: Invalid activation
+[19-Feb-2024 14:26:00 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: Activation Request Failed!: Invalid activation
+[23-Feb-2024 11:58:18 UTC] Sync process for Gutenberg Blocks has started.
+[23-Feb-2024 11:58:18 UTC] CATEGORY: Storing in option ast-block-templates-categories
+[23-Feb-2024 11:58:18 UTC] BLOCK: Requests count 8
+[23-Feb-2024 11:58:18 UTC] BLOCK: Importing request 1 ..
+[23-Feb-2024 11:58:18 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=1&wireframe=yes
+[23-Feb-2024 11:58:18 UTC] BLOCK: Storing in option ast-block-templates-blocks-1
+[23-Feb-2024 11:58:21 UTC] BLOCK: Completed request 1
+[23-Feb-2024 11:58:21 UTC] BLOCK: Importing request 2 ..
+[23-Feb-2024 11:58:21 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=2&wireframe=yes
+[23-Feb-2024 11:58:22 UTC] BLOCK: Storing in option ast-block-templates-blocks-2
+[23-Feb-2024 11:58:25 UTC] BLOCK: Completed request 2
+[23-Feb-2024 11:58:25 UTC] BLOCK: Importing request 3 ..
+[23-Feb-2024 11:58:25 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=3&wireframe=yes
+[23-Feb-2024 11:58:26 UTC] BLOCK: Storing in option ast-block-templates-blocks-3
+[23-Feb-2024 11:58:27 UTC] BLOCK: Completed request 3
+[23-Feb-2024 11:58:27 UTC] BLOCK: Importing request 4 ..
+[23-Feb-2024 11:58:27 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=4&wireframe=yes
+[23-Feb-2024 11:58:28 UTC] BLOCK: Storing in option ast-block-templates-blocks-4
+[23-Feb-2024 11:58:28 UTC] BLOCK: Completed request 4
+[23-Feb-2024 11:58:28 UTC] BLOCK: Importing request 5 ..
+[23-Feb-2024 11:58:28 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=5&wireframe=yes
+[23-Feb-2024 11:58:28 UTC] BLOCK: Storing in option ast-block-templates-blocks-5
+[23-Feb-2024 11:58:29 UTC] BLOCK: Completed request 5
+[23-Feb-2024 11:58:29 UTC] BLOCK: Importing request 6 ..
+[23-Feb-2024 11:58:29 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=6&wireframe=yes
+[23-Feb-2024 11:58:29 UTC] BLOCK: Storing in option ast-block-templates-blocks-6
+[23-Feb-2024 11:58:29 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: Activation Request Failed!: Invalid activation
+[23-Feb-2024 11:58:29 UTC] BLOCK: Completed request 6
+[23-Feb-2024 11:58:29 UTC] BLOCK: Importing request 7 ..
+[23-Feb-2024 11:58:29 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=7&wireframe=yes
+[23-Feb-2024 11:58:30 UTC] BLOCK: Storing in option ast-block-templates-blocks-7
+[23-Feb-2024 11:58:31 UTC] BLOCK: Completed request 7
+[23-Feb-2024 11:58:31 UTC] BLOCK: Importing request 8 ..
+[23-Feb-2024 11:58:31 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=8&wireframe=yes
+[23-Feb-2024 11:58:31 UTC] BLOCK: Storing in option ast-block-templates-blocks-8
+[23-Feb-2024 11:58:31 UTC] BLOCK: Completed request 8
+[23-Feb-2024 11:58:31 UTC] SITE: Getting Total Sites
+[23-Feb-2024 11:58:31 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/get-total-pages/?page_builder=gutenberg&per_page=30
+[23-Feb-2024 11:58:31 UTC] SITE: Request count 10
+[23-Feb-2024 11:58:31 UTC] SITE: Importing request 1 ..
+[23-Feb-2024 11:58:31 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=1&page-builder=gutenberg
+[23-Feb-2024 11:58:31 UTC] SITE: Storing in option ast-block-templates-sites-1
+[23-Feb-2024 11:58:31 UTC] SITE: Completed request 1
+[23-Feb-2024 11:58:31 UTC] SITE: Importing request 2 ..
+[23-Feb-2024 11:58:31 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=2&page-builder=gutenberg
+[23-Feb-2024 11:58:31 UTC] SITE: Storing in option ast-block-templates-sites-2
+[23-Feb-2024 11:58:31 UTC] SITE: Completed request 2
+[23-Feb-2024 11:58:31 UTC] SITE: Importing request 3 ..
+[23-Feb-2024 11:58:31 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=3&page-builder=gutenberg
+[23-Feb-2024 11:58:32 UTC] SITE: Storing in option ast-block-templates-sites-3
+[23-Feb-2024 11:58:32 UTC] SITE: Completed request 3
+[23-Feb-2024 11:58:32 UTC] SITE: Importing request 4 ..
+[23-Feb-2024 11:58:32 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=4&page-builder=gutenberg
+[23-Feb-2024 11:58:32 UTC] SITE: Storing in option ast-block-templates-sites-4
+[23-Feb-2024 11:58:32 UTC] SITE: Completed request 4
+[23-Feb-2024 11:58:32 UTC] SITE: Importing request 5 ..
+[23-Feb-2024 11:58:32 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=5&page-builder=gutenberg
+[23-Feb-2024 11:58:33 UTC] SITE: Storing in option ast-block-templates-sites-5
+[23-Feb-2024 11:58:33 UTC] SITE: Completed request 5
+[23-Feb-2024 11:58:33 UTC] SITE: Importing request 6 ..
+[23-Feb-2024 11:58:33 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=6&page-builder=gutenberg
+[23-Feb-2024 11:58:33 UTC] SITE: Storing in option ast-block-templates-sites-6
+[23-Feb-2024 11:58:33 UTC] SITE: Completed request 6
+[23-Feb-2024 11:58:33 UTC] SITE: Importing request 7 ..
+[23-Feb-2024 11:58:33 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=7&page-builder=gutenberg
+[23-Feb-2024 11:58:33 UTC] SITE: Storing in option ast-block-templates-sites-7
+[23-Feb-2024 11:58:33 UTC] SITE: Completed request 7
+[23-Feb-2024 11:58:33 UTC] SITE: Importing request 8 ..
+[23-Feb-2024 11:58:33 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=8&page-builder=gutenberg
+[23-Feb-2024 11:58:33 UTC] SITE: Storing in option ast-block-templates-sites-8
+[23-Feb-2024 11:58:33 UTC] SITE: Completed request 8
+[23-Feb-2024 11:58:33 UTC] SITE: Importing request 9 ..
+[23-Feb-2024 11:58:33 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=9&page-builder=gutenberg
+[23-Feb-2024 11:58:33 UTC] SITE: Storing in option ast-block-templates-sites-9
+[23-Feb-2024 11:58:33 UTC] SITE: Completed request 9
+[23-Feb-2024 11:58:33 UTC] SITE: Importing request 10 ..
+[23-Feb-2024 11:58:33 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=10&page-builder=gutenberg
+[23-Feb-2024 11:58:34 UTC] SITE: Storing in option ast-block-templates-sites-10
+[23-Feb-2024 11:58:34 UTC] SITE: Completed request 10
+[23-Feb-2024 11:58:34 UTC] Sync process for Gutenberg Blocks is done.
+[23-Feb-2024 11:58:34 UTC] BLOCK: Getting Server Custimizer CSS
+[23-Feb-2024 11:58:34 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/get-customizer-css
+[23-Feb-2024 11:58:37 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: Activation Request Failed!: Invalid activation
+[23-Feb-2024 11:58:38 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: Activation Request Failed!: Invalid activation
+[23-Feb-2024 11:58:45 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: Activation Request Failed!: Invalid activation
+[23-Feb-2024 13:07:42 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: Activation Request Failed!: Invalid activation
+[23-Feb-2024 13:07:46 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: Activation Request Failed!: Invalid activation
+[23-Feb-2024 13:49:19 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: Activation Request Failed!: Invalid activation
+[23-Feb-2024 13:50:02 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: Activation Request Failed!: Invalid activation
+[23-Feb-2024 13:50:32 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: Activation Request Failed!: Invalid activation
+[23-Feb-2024 13:50:37 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: Activation Request Failed!: Invalid activation
+[23-Feb-2024 13:50:42 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: Activation Request Failed!: Invalid activation
+[23-Feb-2024 13:50:47 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: Activation Request Failed!: Invalid activation
+[23-Feb-2024 13:50:52 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: Activation Request Failed!: Invalid activation
+[23-Feb-2024 13:50:58 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: Activation Request Failed!: Invalid activation
+[23-Feb-2024 13:51:57 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: Activation Request Failed!: Invalid activation
+[23-Feb-2024 13:52:02 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: Activation Request Failed!: Invalid activation
+[23-Feb-2024 13:52:08 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: Activation Request Failed!: Invalid activation
+[23-Feb-2024 13:52:12 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: Activation Request Failed!: Invalid activation
+[23-Feb-2024 13:52:37 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: Activation Request Failed!: Invalid activation
+[23-Feb-2024 13:52:43 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: Activation Request Failed!: Invalid activation
+[23-Feb-2024 13:52:47 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: Activation Request Failed!: Invalid activation
+[23-Feb-2024 13:52:52 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Oauth\Components\Connect::check_connect_status(): Status check error. Reason: Activation Request Failed!: Invalid activation
+[29-Feb-2024 06:12:05 UTC] Blocks are up to date.
+[29-Feb-2024 06:17:03 UTC] PHP Warning:  Array to string conversion in C:\Users\earl1\Local Sites\afriplacement\app\public\wp-includes\functions.php on line 3844
+[29-Feb-2024 06:17:21 UTC] PHP Warning:  Array to string conversion in C:\Users\earl1\Local Sites\afriplacement\app\public\wp-includes\functions.php on line 3844
+[14-Mar-2024 14:24:09 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_imagick.dll (The specified module could not be found), C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 14:24:11 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_imagick.dll (The specified module could not be found), C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 14:24:11 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_imagick.dll (The specified module could not be found), C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 14:24:11 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_imagick.dll (The specified module could not be found), C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 14:24:11 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_imagick.dll (The specified module could not be found), C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 14:24:14 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_imagick.dll (The specified module could not be found), C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 14:24:14 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_imagick.dll (The specified module could not be found), C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 14:24:14 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_imagick.dll (The specified module could not be found), C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 14:24:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_imagick.dll (The specified module could not be found), C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 14:24:51 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_imagick.dll (The specified module could not be found), C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 14:24:53 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_imagick.dll (The specified module could not be found), C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 14:24:53 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_imagick.dll (The specified module could not be found), C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 14:24:54 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_imagick.dll (The specified module could not be found), C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 14:24:56 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_imagick.dll (The specified module could not be found), C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 14:26:30 UTC] Sync process for Gutenberg Blocks has started.
+[14-Mar-2024 14:26:30 UTC] CATEGORY: Storing in option ast-block-templates-categories
+[14-Mar-2024 14:26:30 UTC] BLOCK: Requests count 8
+[14-Mar-2024 14:26:30 UTC] BLOCK: Importing request 1 ..
+[14-Mar-2024 14:26:30 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=1&wireframe=yes
+[14-Mar-2024 14:26:31 UTC] BLOCK: Storing in option ast-block-templates-blocks-1
+[14-Mar-2024 14:26:31 UTC] BLOCK: Completed request 1
+[14-Mar-2024 14:26:31 UTC] BLOCK: Importing request 2 ..
+[14-Mar-2024 14:26:31 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=2&wireframe=yes
+[14-Mar-2024 14:26:32 UTC] BLOCK: Storing in option ast-block-templates-blocks-2
+[14-Mar-2024 14:26:34 UTC] BLOCK: Completed request 2
+[14-Mar-2024 14:26:34 UTC] BLOCK: Importing request 3 ..
+[14-Mar-2024 14:26:34 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=3&wireframe=yes
+[14-Mar-2024 14:26:34 UTC] BLOCK: Storing in option ast-block-templates-blocks-3
+[14-Mar-2024 14:26:36 UTC] BLOCK: Completed request 3
+[14-Mar-2024 14:26:36 UTC] BLOCK: Importing request 4 ..
+[14-Mar-2024 14:26:36 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=4&wireframe=yes
+[14-Mar-2024 14:26:37 UTC] BLOCK: Storing in option ast-block-templates-blocks-4
+[14-Mar-2024 14:26:40 UTC] BLOCK: Completed request 4
+[14-Mar-2024 14:26:40 UTC] BLOCK: Importing request 5 ..
+[14-Mar-2024 14:26:40 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=5&wireframe=yes
+[14-Mar-2024 14:26:40 UTC] BLOCK: Storing in option ast-block-templates-blocks-5
+[14-Mar-2024 14:26:40 UTC] BLOCK: Completed request 5
+[14-Mar-2024 14:26:40 UTC] BLOCK: Importing request 6 ..
+[14-Mar-2024 14:26:40 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=6&wireframe=yes
+[14-Mar-2024 14:26:41 UTC] BLOCK: Storing in option ast-block-templates-blocks-6
+[14-Mar-2024 14:26:41 UTC] BLOCK: Completed request 6
+[14-Mar-2024 14:26:41 UTC] BLOCK: Importing request 7 ..
+[14-Mar-2024 14:26:41 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=7&wireframe=yes
+[14-Mar-2024 14:26:41 UTC] BLOCK: Storing in option ast-block-templates-blocks-7
+[14-Mar-2024 14:26:42 UTC] BLOCK: Completed request 7
+[14-Mar-2024 14:26:42 UTC] BLOCK: Importing request 8 ..
+[14-Mar-2024 14:26:42 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=8&wireframe=yes
+[14-Mar-2024 14:26:42 UTC] BLOCK: Storing in option ast-block-templates-blocks-8
+[14-Mar-2024 14:26:42 UTC] BLOCK: Completed request 8
+[14-Mar-2024 14:26:42 UTC] SITE: Getting Total Sites
+[14-Mar-2024 14:26:42 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/get-total-pages/?page_builder=gutenberg&per_page=30
+[14-Mar-2024 14:26:42 UTC] SITE: Request count 10
+[14-Mar-2024 14:26:42 UTC] SITE: Importing request 1 ..
+[14-Mar-2024 14:26:42 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=1&page-builder=gutenberg
+[14-Mar-2024 14:26:42 UTC] SITE: Storing in option ast-block-templates-sites-1
+[14-Mar-2024 14:26:43 UTC] SITE: Completed request 1
+[14-Mar-2024 14:26:43 UTC] SITE: Importing request 2 ..
+[14-Mar-2024 14:26:43 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=2&page-builder=gutenberg
+[14-Mar-2024 14:26:43 UTC] SITE: Storing in option ast-block-templates-sites-2
+[14-Mar-2024 14:26:43 UTC] SITE: Completed request 2
+[14-Mar-2024 14:26:43 UTC] SITE: Importing request 3 ..
+[14-Mar-2024 14:26:43 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=3&page-builder=gutenberg
+[14-Mar-2024 14:26:43 UTC] SITE: Storing in option ast-block-templates-sites-3
+[14-Mar-2024 14:26:43 UTC] SITE: Completed request 3
+[14-Mar-2024 14:26:43 UTC] SITE: Importing request 4 ..
+[14-Mar-2024 14:26:43 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=4&page-builder=gutenberg
+[14-Mar-2024 14:26:43 UTC] SITE: Storing in option ast-block-templates-sites-4
+[14-Mar-2024 14:26:43 UTC] SITE: Completed request 4
+[14-Mar-2024 14:26:43 UTC] SITE: Importing request 5 ..
+[14-Mar-2024 14:26:43 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=5&page-builder=gutenberg
+[14-Mar-2024 14:26:43 UTC] SITE: Storing in option ast-block-templates-sites-5
+[14-Mar-2024 14:26:44 UTC] SITE: Completed request 5
+[14-Mar-2024 14:26:44 UTC] SITE: Importing request 6 ..
+[14-Mar-2024 14:26:44 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=6&page-builder=gutenberg
+[14-Mar-2024 14:26:44 UTC] SITE: Storing in option ast-block-templates-sites-6
+[14-Mar-2024 14:26:44 UTC] SITE: Completed request 6
+[14-Mar-2024 14:26:44 UTC] SITE: Importing request 7 ..
+[14-Mar-2024 14:26:44 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=7&page-builder=gutenberg
+[14-Mar-2024 14:26:44 UTC] SITE: Storing in option ast-block-templates-sites-7
+[14-Mar-2024 14:26:44 UTC] SITE: Completed request 7
+[14-Mar-2024 14:26:44 UTC] SITE: Importing request 8 ..
+[14-Mar-2024 14:26:44 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=8&page-builder=gutenberg
+[14-Mar-2024 14:26:44 UTC] SITE: Storing in option ast-block-templates-sites-8
+[14-Mar-2024 14:26:44 UTC] SITE: Completed request 8
+[14-Mar-2024 14:26:44 UTC] SITE: Importing request 9 ..
+[14-Mar-2024 14:26:44 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=9&page-builder=gutenberg
+[14-Mar-2024 14:26:44 UTC] SITE: Storing in option ast-block-templates-sites-9
+[14-Mar-2024 14:26:44 UTC] SITE: Completed request 9
+[14-Mar-2024 14:26:44 UTC] SITE: Importing request 10 ..
+[14-Mar-2024 14:26:44 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=10&page-builder=gutenberg
+[14-Mar-2024 14:26:45 UTC] SITE: Storing in option ast-block-templates-sites-10
+[14-Mar-2024 14:26:45 UTC] SITE: Completed request 10
+[14-Mar-2024 14:26:45 UTC] Sync process for Gutenberg Blocks is done.
+[14-Mar-2024 14:26:45 UTC] BLOCK: Getting Server Custimizer CSS
+[14-Mar-2024 14:26:45 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/get-customizer-css
+[14-Mar-2024 14:28:19 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_imagick.dll (The specified module could not be found), C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 14:28:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_imagick.dll (The specified module could not be found), C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 14:28:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_imagick.dll (The specified module could not be found), C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 14:28:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_imagick.dll (The specified module could not be found), C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 14:28:23 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_imagick.dll (The specified module could not be found), C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 14:28:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_imagick.dll (The specified module could not be found), C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 14:28:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_imagick.dll (The specified module could not be found), C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 14:28:34 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_imagick.dll (The specified module could not be found), C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found)) in Unknown on line 0
+[25-Mar-2024 15:01:36 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_imagick.dll (The specified module could not be found), C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found)) in Unknown on line 0
+[25-Mar-2024 15:01:37 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_imagick.dll (The specified module could not be found), C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found)) in Unknown on line 0
+[25-Mar-2024 15:03:07 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_imagick.dll (The specified module could not be found), C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found)) in Unknown on line 0
+[25-Mar-2024 15:03:07 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_imagick.dll (The specified module could not be found), C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found)) in Unknown on line 0
+[25-Mar-2024 15:03:08 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_imagick.dll (The specified module could not be found), C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found)) in Unknown on line 0
+[25-Mar-2024 15:03:08 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_imagick.dll (The specified module could not be found), C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found)) in Unknown on line 0
+[25-Mar-2024 15:03:09 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_imagick.dll (The specified module could not be found), C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found)) in Unknown on line 0
+[25-Mar-2024 15:03:09 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_imagick.dll (The specified module could not be found), C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found)) in Unknown on line 0
+[25-Mar-2024 15:03:17 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_imagick.dll (The specified module could not be found), C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found)) in Unknown on line 0
+[25-Mar-2024 15:03:42 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_imagick.dll (The specified module could not be found), C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found)) in Unknown on line 0
+[25-Mar-2024 15:03:44 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_imagick.dll (The specified module could not be found), C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found)) in Unknown on line 0
+[25-Mar-2024 15:03:44 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_imagick.dll (The specified module could not be found), C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found)) in Unknown on line 0
+[25-Mar-2024 15:03:44 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_imagick.dll (The specified module could not be found), C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found)) in Unknown on line 0
+[25-Mar-2024 15:03:48 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_imagick.dll (The specified module could not be found), C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found)) in Unknown on line 0
+[25-Mar-2024 15:05:44 UTC] Sync process for Gutenberg Blocks has started.
+[25-Mar-2024 15:05:44 UTC] CATEGORY: Storing in option ast-block-templates-categories
+[25-Mar-2024 15:05:44 UTC] BLOCK: Requests count 7
+[25-Mar-2024 15:05:45 UTC] BLOCK: Importing request 1 ..
+[25-Mar-2024 15:05:45 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=1&wireframe=yes
+[25-Mar-2024 15:05:45 UTC] BLOCK: Storing in option ast-block-templates-blocks-1
+[25-Mar-2024 15:05:46 UTC] BLOCK: Completed request 1
+[25-Mar-2024 15:05:46 UTC] BLOCK: Importing request 2 ..
+[25-Mar-2024 15:05:46 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=2&wireframe=yes
+[25-Mar-2024 15:05:46 UTC] BLOCK: Storing in option ast-block-templates-blocks-2
+[25-Mar-2024 15:05:49 UTC] BLOCK: Completed request 2
+[25-Mar-2024 15:05:49 UTC] BLOCK: Importing request 3 ..
+[25-Mar-2024 15:05:49 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=3&wireframe=yes
+[25-Mar-2024 15:05:49 UTC] BLOCK: Storing in option ast-block-templates-blocks-3
+[25-Mar-2024 15:05:50 UTC] BLOCK: Completed request 3
+[25-Mar-2024 15:05:50 UTC] BLOCK: Importing request 4 ..
+[25-Mar-2024 15:05:50 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=4&wireframe=yes
+[25-Mar-2024 15:05:50 UTC] BLOCK: Storing in option ast-block-templates-blocks-4
+[25-Mar-2024 15:05:51 UTC] BLOCK: Completed request 4
+[25-Mar-2024 15:05:51 UTC] BLOCK: Importing request 5 ..
+[25-Mar-2024 15:05:51 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=5&wireframe=yes
+[25-Mar-2024 15:05:51 UTC] BLOCK: Storing in option ast-block-templates-blocks-5
+[25-Mar-2024 15:05:51 UTC] BLOCK: Completed request 5
+[25-Mar-2024 15:05:51 UTC] BLOCK: Importing request 6 ..
+[25-Mar-2024 15:05:51 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=6&wireframe=yes
+[25-Mar-2024 15:05:51 UTC] BLOCK: Storing in option ast-block-templates-blocks-6
+[25-Mar-2024 15:05:52 UTC] BLOCK: Completed request 6
+[25-Mar-2024 15:05:52 UTC] BLOCK: Importing request 7 ..
+[25-Mar-2024 15:05:52 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=7&wireframe=yes
+[25-Mar-2024 15:05:52 UTC] BLOCK: Storing in option ast-block-templates-blocks-7
+[25-Mar-2024 15:05:53 UTC] BLOCK: Completed request 7
+[25-Mar-2024 15:05:53 UTC] SITE: Getting Total Sites
+[25-Mar-2024 15:05:53 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/get-total-pages/?page_builder=gutenberg&per_page=30
+[25-Mar-2024 15:05:53 UTC] SITE: Request count 10
+[25-Mar-2024 15:05:53 UTC] SITE: Importing request 1 ..
+[25-Mar-2024 15:05:53 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=1&page-builder=gutenberg
+[25-Mar-2024 15:05:53 UTC] SITE: Storing in option ast-block-templates-sites-1
+[25-Mar-2024 15:05:53 UTC] SITE: Completed request 1
+[25-Mar-2024 15:05:53 UTC] SITE: Importing request 2 ..
+[25-Mar-2024 15:05:53 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=2&page-builder=gutenberg
+[25-Mar-2024 15:05:53 UTC] SITE: Storing in option ast-block-templates-sites-2
+[25-Mar-2024 15:05:53 UTC] SITE: Completed request 2
+[25-Mar-2024 15:05:53 UTC] SITE: Importing request 3 ..
+[25-Mar-2024 15:05:53 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=3&page-builder=gutenberg
+[25-Mar-2024 15:05:53 UTC] SITE: Storing in option ast-block-templates-sites-3
+[25-Mar-2024 15:05:53 UTC] SITE: Completed request 3
+[25-Mar-2024 15:05:53 UTC] SITE: Importing request 4 ..
+[25-Mar-2024 15:05:53 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=4&page-builder=gutenberg
+[25-Mar-2024 15:05:54 UTC] SITE: Storing in option ast-block-templates-sites-4
+[25-Mar-2024 15:05:54 UTC] SITE: Completed request 4
+[25-Mar-2024 15:05:54 UTC] SITE: Importing request 5 ..
+[25-Mar-2024 15:05:54 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=5&page-builder=gutenberg
+[25-Mar-2024 15:05:54 UTC] SITE: Storing in option ast-block-templates-sites-5
+[25-Mar-2024 15:05:54 UTC] SITE: Completed request 5
+[25-Mar-2024 15:05:54 UTC] SITE: Importing request 6 ..
+[25-Mar-2024 15:05:54 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=6&page-builder=gutenberg
+[25-Mar-2024 15:05:54 UTC] SITE: Storing in option ast-block-templates-sites-6
+[25-Mar-2024 15:05:55 UTC] SITE: Completed request 6
+[25-Mar-2024 15:05:55 UTC] SITE: Importing request 7 ..
+[25-Mar-2024 15:05:55 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=7&page-builder=gutenberg
+[25-Mar-2024 15:05:55 UTC] SITE: Storing in option ast-block-templates-sites-7
+[25-Mar-2024 15:05:55 UTC] SITE: Completed request 7
+[25-Mar-2024 15:05:55 UTC] SITE: Importing request 8 ..
+[25-Mar-2024 15:05:55 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=8&page-builder=gutenberg
+[25-Mar-2024 15:05:55 UTC] SITE: Storing in option ast-block-templates-sites-8
+[25-Mar-2024 15:05:55 UTC] SITE: Completed request 8
+[25-Mar-2024 15:05:55 UTC] SITE: Importing request 9 ..
+[25-Mar-2024 15:05:55 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=9&page-builder=gutenberg
+[25-Mar-2024 15:05:55 UTC] SITE: Storing in option ast-block-templates-sites-9
+[25-Mar-2024 15:05:55 UTC] SITE: Completed request 9
+[25-Mar-2024 15:05:55 UTC] SITE: Importing request 10 ..
+[25-Mar-2024 15:05:55 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=10&page-builder=gutenberg
+[25-Mar-2024 15:05:55 UTC] SITE: Storing in option ast-block-templates-sites-10
+[25-Mar-2024 15:05:55 UTC] SITE: Completed request 10
+[25-Mar-2024 15:05:55 UTC] Sync process for Gutenberg Blocks is done.
+[25-Mar-2024 15:05:55 UTC] BLOCK: Getting Server Custimizer CSS
+[25-Mar-2024 15:05:55 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/get-customizer-css
+[30-Mar-2024 17:43:01 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_imagick.dll (The specified module could not be found), C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found)) in Unknown on line 0
+[30-Mar-2024 17:43:02 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_imagick.dll (The specified module could not be found), C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found)) in Unknown on line 0
+[30-Mar-2024 17:43:05 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_imagick.dll (The specified module could not be found), C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found)) in Unknown on line 0
+[30-Mar-2024 17:43:05 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_imagick.dll (The specified module could not be found), C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found)) in Unknown on line 0
+[30-Mar-2024 17:43:06 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_imagick.dll (The specified module could not be found), C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found)) in Unknown on line 0
+[30-Mar-2024 17:43:06 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_imagick.dll (The specified module could not be found), C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found)) in Unknown on line 0
+[30-Mar-2024 17:43:08 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_imagick.dll (The specified module could not be found), C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found)) in Unknown on line 0
+[30-Mar-2024 17:43:08 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_imagick.dll (The specified module could not be found), C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found)) in Unknown on line 0
+[30-Mar-2024 17:43:15 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_imagick.dll (The specified module could not be found), C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found)) in Unknown on line 0
+[30-Mar-2024 17:43:43 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_imagick.dll (The specified module could not be found), C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found)) in Unknown on line 0
+[30-Mar-2024 17:43:45 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_imagick.dll (The specified module could not be found), C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found)) in Unknown on line 0
+[30-Mar-2024 17:43:46 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_imagick.dll (The specified module could not be found), C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found)) in Unknown on line 0
+[30-Mar-2024 17:43:49 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_imagick.dll (The specified module could not be found), C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found)) in Unknown on line 0
+[30-Mar-2024 17:43:51 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_imagick.dll (The specified module could not be found), C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found)) in Unknown on line 0
+[30-Mar-2024 17:43:53 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_imagick.dll (The specified module could not be found), C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found)) in Unknown on line 0
+[30-Mar-2024 17:43:57 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_imagick.dll (The specified module could not be found), C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found)) in Unknown on line 0
+[30-Mar-2024 17:43:59 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_imagick.dll (The specified module could not be found), C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found)) in Unknown on line 0
+[30-Mar-2024 17:44:08 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_imagick.dll (The specified module could not be found), C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found)) in Unknown on line 0
+[30-Mar-2024 17:44:09 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_imagick.dll (The specified module could not be found), C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found)) in Unknown on line 0
+[30-Mar-2024 17:44:10 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_imagick.dll (The specified module could not be found), C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found)) in Unknown on line 0
+[30-Mar-2024 17:44:10 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_imagick.dll (The specified module could not be found), C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found)) in Unknown on line 0
+[30-Mar-2024 17:45:04 UTC] Sync process for Gutenberg Blocks has started.
+[30-Mar-2024 17:45:04 UTC] CATEGORY: Storing in option ast-block-templates-categories
+[30-Mar-2024 17:45:04 UTC] BLOCK: Requests count 7
+[30-Mar-2024 17:45:04 UTC] BLOCK: Importing request 1 ..
+[30-Mar-2024 17:45:04 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=1&wireframe=yes
+[30-Mar-2024 17:45:04 UTC] BLOCK: Storing in option ast-block-templates-blocks-1
+[30-Mar-2024 17:45:05 UTC] BLOCK: Completed request 1
+[30-Mar-2024 17:45:05 UTC] BLOCK: Importing request 2 ..
+[30-Mar-2024 17:45:05 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=2&wireframe=yes
+[30-Mar-2024 17:45:05 UTC] BLOCK: Storing in option ast-block-templates-blocks-2
+[30-Mar-2024 17:45:07 UTC] BLOCK: Completed request 2
+[30-Mar-2024 17:45:07 UTC] BLOCK: Importing request 3 ..
+[30-Mar-2024 17:45:07 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=3&wireframe=yes
+[30-Mar-2024 17:45:08 UTC] BLOCK: Storing in option ast-block-templates-blocks-3
+[30-Mar-2024 17:45:09 UTC] BLOCK: Completed request 3
+[30-Mar-2024 17:45:09 UTC] BLOCK: Importing request 4 ..
+[30-Mar-2024 17:45:09 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=4&wireframe=yes
+[30-Mar-2024 17:45:09 UTC] BLOCK: Storing in option ast-block-templates-blocks-4
+[30-Mar-2024 17:45:09 UTC] BLOCK: Completed request 4
+[30-Mar-2024 17:45:09 UTC] BLOCK: Importing request 5 ..
+[30-Mar-2024 17:45:09 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=5&wireframe=yes
+[30-Mar-2024 17:45:10 UTC] BLOCK: Storing in option ast-block-templates-blocks-5
+[30-Mar-2024 17:45:10 UTC] BLOCK: Completed request 5
+[30-Mar-2024 17:45:10 UTC] BLOCK: Importing request 6 ..
+[30-Mar-2024 17:45:10 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=6&wireframe=yes
+[30-Mar-2024 17:45:10 UTC] BLOCK: Storing in option ast-block-templates-blocks-6
+[30-Mar-2024 17:45:11 UTC] BLOCK: Completed request 6
+[30-Mar-2024 17:45:11 UTC] BLOCK: Importing request 7 ..
+[30-Mar-2024 17:45:11 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=7&wireframe=yes
+[30-Mar-2024 17:45:11 UTC] BLOCK: Storing in option ast-block-templates-blocks-7
+[30-Mar-2024 17:45:11 UTC] BLOCK: Completed request 7
+[30-Mar-2024 17:45:11 UTC] SITE: Getting Total Sites
+[30-Mar-2024 17:45:11 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/get-total-pages/?page_builder=gutenberg&per_page=30
+[30-Mar-2024 17:45:11 UTC] SITE: Request count 10
+[30-Mar-2024 17:45:11 UTC] SITE: Importing request 1 ..
+[30-Mar-2024 17:45:11 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=1&page-builder=gutenberg
+[30-Mar-2024 17:45:12 UTC] SITE: Storing in option ast-block-templates-sites-1
+[30-Mar-2024 17:45:12 UTC] SITE: Completed request 1
+[30-Mar-2024 17:45:12 UTC] SITE: Importing request 2 ..
+[30-Mar-2024 17:45:12 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=2&page-builder=gutenberg
+[30-Mar-2024 17:45:12 UTC] SITE: Storing in option ast-block-templates-sites-2
+[30-Mar-2024 17:45:12 UTC] SITE: Completed request 2
+[30-Mar-2024 17:45:12 UTC] SITE: Importing request 3 ..
+[30-Mar-2024 17:45:12 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=3&page-builder=gutenberg
+[30-Mar-2024 17:45:12 UTC] SITE: Storing in option ast-block-templates-sites-3
+[30-Mar-2024 17:45:12 UTC] SITE: Completed request 3
+[30-Mar-2024 17:45:12 UTC] SITE: Importing request 4 ..
+[30-Mar-2024 17:45:12 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=4&page-builder=gutenberg
+[30-Mar-2024 17:45:12 UTC] SITE: Storing in option ast-block-templates-sites-4
+[30-Mar-2024 17:45:12 UTC] SITE: Completed request 4
+[30-Mar-2024 17:45:12 UTC] SITE: Importing request 5 ..
+[30-Mar-2024 17:45:12 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=5&page-builder=gutenberg
+[30-Mar-2024 17:45:12 UTC] SITE: Storing in option ast-block-templates-sites-5
+[30-Mar-2024 17:45:13 UTC] SITE: Completed request 5
+[30-Mar-2024 17:45:13 UTC] SITE: Importing request 6 ..
+[30-Mar-2024 17:45:13 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=6&page-builder=gutenberg
+[30-Mar-2024 17:45:13 UTC] SITE: Storing in option ast-block-templates-sites-6
+[30-Mar-2024 17:45:13 UTC] SITE: Completed request 6
+[30-Mar-2024 17:45:13 UTC] SITE: Importing request 7 ..
+[30-Mar-2024 17:45:13 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=7&page-builder=gutenberg
+[30-Mar-2024 17:45:13 UTC] SITE: Storing in option ast-block-templates-sites-7
+[30-Mar-2024 17:45:13 UTC] SITE: Completed request 7
+[30-Mar-2024 17:45:13 UTC] SITE: Importing request 8 ..
+[30-Mar-2024 17:45:13 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=8&page-builder=gutenberg
+[30-Mar-2024 17:45:13 UTC] SITE: Storing in option ast-block-templates-sites-8
+[30-Mar-2024 17:45:13 UTC] SITE: Completed request 8
+[30-Mar-2024 17:45:13 UTC] SITE: Importing request 9 ..
+[30-Mar-2024 17:45:13 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=9&page-builder=gutenberg
+[30-Mar-2024 17:45:14 UTC] SITE: Storing in option ast-block-templates-sites-9
+[30-Mar-2024 17:45:14 UTC] SITE: Completed request 9
+[30-Mar-2024 17:45:14 UTC] SITE: Importing request 10 ..
+[30-Mar-2024 17:45:14 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=10&page-builder=gutenberg
+[30-Mar-2024 17:45:14 UTC] SITE: Storing in option ast-block-templates-sites-10
+[30-Mar-2024 17:45:14 UTC] SITE: Completed request 10
+[30-Mar-2024 17:45:14 UTC] Sync process for Gutenberg Blocks is done.
+[30-Mar-2024 17:45:14 UTC] BLOCK: Getting Server Custimizer CSS
+[30-Mar-2024 17:45:14 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/get-customizer-css
+[06-May-2024 07:54:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_imagick.dll (The specified module could not be found), C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found)) in Unknown on line 0
+[06-May-2024 07:54:43 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imagick.dll' (tried: C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_imagick.dll (The specified module could not be found), C:/Users/earl1/AppData/Roaming/Local/lightning-services/php-8.1.23+0/bin/win64/ext\php_php_imagick.dll.dll (The specified module could not be found)) in Unknown on line 0
